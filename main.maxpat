@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 169.0, 87.0, 900.0, 340.0 ],
+		"rect" : [ 169.0, 87.0, 924.0, 340.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -47,7 +47,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 394.0, 360.0, 150.0, 33.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 723.000000000000227, 308.0, 165.0, 20.0 ],
+					"presentation_rect" : [ 746.000000000000227, 308.0, 165.0, 20.0 ],
 					"text" : "density kg/m^3, young N/m^2"
 				}
 
@@ -72,7 +72,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 100.833333333333343, 504.0, 238.000000000000256, 108.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 305.999999999999943, 10.0, 582.000000000000227, 296.0 ],
+					"presentation_rect" : [ 305.999999999999943, 10.0, 605.000000000000227, 296.0 ],
 					"stripecolor" : [ 0.243137254901961, 0.243137254901961, 0.243137254901961, 1.0 ]
 				}
 
@@ -161,7 +161,7 @@
 					"fontname" : "Arial",
 					"fontsize" : 12.0,
 					"id" : "obj-7",
-					"items" : [ "Arsenic", ",", "Diamond", ",", "Graphite", ",", "Quartz", ",", "Sapphire", ",", "Silicon", ",", "Uranium" ],
+					"items" : [ "Carbon", "Fiber", ",", "Catgut", ",", "Flax", "Fiber", ",", "Hemp", "Fiber", ",", "Horse", "Hair", ",", "Nylon", ",", "Silkworm", "Silk", ",", "Spider", "Silk" ],
 					"maxclass" : "chooser",
 					"numinlets" : 1,
 					"numoutlets" : 6,
