@@ -1,4 +1,4 @@
-material,category,density min,density max,young min,young max,young Radial min,young radial max,young Tangential min,young tangentia max,poisson min,poisson max,freq-loss,const-loss,notes
+material,category,density min,density max,young min,young max,young radial min,young radial max,young tangential min,young tangential max,poisson min,poisson max,freq-loss,const-loss,notes
 Ash,wood,710,,1.6E+10,,1.6E+09,,9E+08,,,,,,
 Balsa,wood,160,,6E+09,,3E+08,,1E+08,,,,,,
 Bamboo,wood,300,400,1.4E+10,,,,,,,,,,
