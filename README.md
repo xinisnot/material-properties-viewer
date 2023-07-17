@@ -1,3 +1,3 @@
 This is a Max patch that allows you to list the physical properties featured in the documentation of Modalys, developed by Ircam. For detailed information on each physical property and more, please refer to the Modalys documentation found here: https://support.ircam.fr/docs/Modalys/current/Objects/ObjectProperties/index.html. For more information about Modalys in general, please visit: https://support.ircam.fr/docs/Modalys/current/index.html.
 
-![](https://github.com/xinisnot/material-properties-viewer/assets/69862767/95f6136e-f2cf-4dc7-bee9-8086febd4c90)
+![](https://github.com/xinisnot/material-properties-viewer/assets/69862767/fc8029f5-b230-4a38-8ed6-c39f7c9eeb3e)
